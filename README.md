@@ -1,5 +1,6 @@
-<div>
-   <a href="https://github.com/luisrca-tech">
+Bem-vindo(a) ao perfil Pavanzinho 😁
+ <div>
+   <a href="https://github.com/Pavanzinho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisrca-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrca-tech&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -15,9 +16,9 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a target="_blank" href="https://instagram.com/luis_felip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
+  <a target="_blank" href="https://instagram.com/pavan.thiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
  <a target="_blank" href="https://discord.gg/83d46hyQ" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a target="_blank" href = "mailto:luisrochacruzalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href = "mailto:thiago772000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
   !Snake animation
