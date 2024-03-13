@@ -1,6 +1,6 @@
-Bem-vindo(a) ao perfil Pavanzinho 😁
+Bem-vindo(a) ao perfil P4vanzinho 😁
  <div>
-   <a href="https://github.com/Pavanzinho">
+   <a href="https://github.com/Pav4nzinho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p4vanzinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrca-tech&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -21,6 +21,6 @@ Bem-vindo(a) ao perfil Pavanzinho 😁
   <a target="_blank" href = "mailto:thiago772000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
-  !Snake animation
+ 
 
 </div>
